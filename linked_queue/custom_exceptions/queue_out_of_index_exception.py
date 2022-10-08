@@ -1,0 +1,3 @@
+class QueueOutOfIndexException(IndexError):
+    pass
+
