@@ -32,7 +32,7 @@ assignments
 
 ### before getting started
 
-- `assignment` directory 로 이동해주셔야 합니다.
+- 해당 directory 로 이동해주셔야 합니다.
 
 ### using python3 (python) directly
 
